@@ -11,5 +11,11 @@ def subtracao_de_dois_numeros (numero1, numero2):
     subtracao_de_dois_numeros = numero1 - numero2
     return subtracao_de_dois_numeros
 
+# Etapa 3: Melhorando a Interação (3º Commit)
+
+def multiplicacao_de_dois_numeros (numero1, numero2):
+    multiplicacao_de_dois_numeros = numero1 * numero2
+    return multiplicacao_de_dois_numeros
+
 
 
